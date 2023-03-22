@@ -2,6 +2,7 @@
 能够实现Range软件同等功能的代码
 Developed by Merlin
 With the aid of ChatGPT
+via https://blog.csdn.net/Triumph19/article/details/125411271 
 '''
 
 import os
